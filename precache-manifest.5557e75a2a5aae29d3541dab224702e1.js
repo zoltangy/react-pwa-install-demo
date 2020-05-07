@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df1903a1f2a89dd21b58f5c6d766d984",
+    "revision": "88a63eb22c454889b4a0175a5c901f31",
     "url": "/react-pwa-install-demo/index.html"
   },
   {
-    "revision": "b8a1b78d8f114b7a5a62",
-    "url": "/react-pwa-install-demo/static/js/2.bc71655f.chunk.js"
+    "revision": "a542e168f466e0feea88",
+    "url": "/react-pwa-install-demo/static/js/2.0f6cb469.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/react-pwa-install-demo/static/js/2.bc71655f.chunk.js.LICENSE.txt"
+    "url": "/react-pwa-install-demo/static/js/2.0f6cb469.chunk.js.LICENSE.txt"
   },
   {
     "revision": "fe1494a9b797e8c3fb2b",
