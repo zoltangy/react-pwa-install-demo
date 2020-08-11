@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-pwa-install-demo/static/js/main.9f4fe6d6.chunk.js",
-    "main.js.map": "/react-pwa-install-demo/static/js/main.9f4fe6d6.chunk.js.map",
+    "main.js": "/react-pwa-install-demo/static/js/main.0b3ada0b.chunk.js",
+    "main.js.map": "/react-pwa-install-demo/static/js/main.0b3ada0b.chunk.js.map",
     "runtime-main.js": "/react-pwa-install-demo/static/js/runtime-main.602f8855.js",
     "runtime-main.js.map": "/react-pwa-install-demo/static/js/runtime-main.602f8855.js.map",
     "static/js/2.82f212f3.chunk.js": "/react-pwa-install-demo/static/js/2.82f212f3.chunk.js",
     "static/js/2.82f212f3.chunk.js.map": "/react-pwa-install-demo/static/js/2.82f212f3.chunk.js.map",
     "index.html": "/react-pwa-install-demo/index.html",
-    "precache-manifest.b535cbf3b16bc0812525ea61f37210e2.js": "/react-pwa-install-demo/precache-manifest.b535cbf3b16bc0812525ea61f37210e2.js",
+    "precache-manifest.81d87465f8520193c2ef4e7d150afc8a.js": "/react-pwa-install-demo/precache-manifest.81d87465f8520193c2ef4e7d150afc8a.js",
     "service-worker.js": "/react-pwa-install-demo/service-worker.js",
     "static/js/2.82f212f3.chunk.js.LICENSE.txt": "/react-pwa-install-demo/static/js/2.82f212f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.602f8855.js",
     "static/js/2.82f212f3.chunk.js",
-    "static/js/main.9f4fe6d6.chunk.js"
+    "static/js/main.0b3ada0b.chunk.js"
   ]
 }
