@@ -30,10 +30,13 @@ function App() {
         button below:
       </p>
       {supported() && !isInstalled() && (
-        <button type="button" onClick={handleClick}>
+        <button type="button" onClick={handleClick} style={{ marginBottom: "50px", display: "block" }}>
           Install app
         </button>
       )}
+      supported: {supported() + ""}
+      <br />
+      isInstalled: {isInstalled() + ""}
     </div>
   );
 }
