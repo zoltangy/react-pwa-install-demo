@@ -29,14 +29,15 @@ function App() {
         If your browser is supported and you haven't already installed the app, you should see the install
         button below:
       </p>
-      {supported() && !isInstalled() && (
-        <button type="button" onClick={handleClick} style={{ marginBottom: "50px", display: "block" }}>
-          Install app
-        </button>
-      )}
-      supported: {supported() + ""}
-      <br />
-      isInstalled: {isInstalled() + ""}
+      <div>
+        {supported() && !isInstalled() && (
+          <button type="button" onClick={handleClick} style={{ marginBottom: "50px", display: "block" }}>
+            Install app
+          </button>
+        )}
+      </div>
+      <p>supported: {supported() + ""}</p>
+      <p>isInstalled: {isInstalled() + ""}</p>
     </div>
   );
 }
